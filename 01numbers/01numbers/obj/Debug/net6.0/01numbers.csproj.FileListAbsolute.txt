@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/bin/Debug/net6.0/01numbers
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/bin/Debug/net6.0/01numbers.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/bin/Debug/net6.0/01numbers.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/bin/Debug/net6.0/01numbers.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/bin/Debug/net6.0/01numbers.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/refint/01numbers.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/01numbers.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/01numbers/obj/Debug/net6.0/ref/01numbers.dll

@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/bin/Debug/net6.0/02stringArries
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/bin/Debug/net6.0/02stringArries.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/bin/Debug/net6.0/02stringArries.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/bin/Debug/net6.0/02stringArries.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/bin/Debug/net6.0/02stringArries.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/refint/02stringArries.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/02stringArries.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/obj/Debug/net6.0/ref/02stringArries.dll
