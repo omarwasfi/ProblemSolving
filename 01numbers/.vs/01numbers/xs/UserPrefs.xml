@@ -1,6 +1,33 @@
-﻿<Properties StartupConfiguration="{29490A3D-2659-4B19-BCDF-BEEF7BF2C094}|Default">
-  <MonoDevelop.Ide.ItemProperties.CalculateTheDigitsThatOccurTheMostNumber FirstBuild="True" />
+﻿<Properties StartupConfiguration="{F9CFA9F3-52CC-42DF-9328-98D0E159B198}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02stringArries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/02stringArries/Program.cs" relfile="02stringArries/Program.cs" line="43" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculateTheDigitsThatOccurTheMostNumber/Program.cs">
+    <Files>
+      <File FileName="01numbers/Program.cs" Line="29" Column="1" />
+      <File FileName="02stringArries/Program.cs" Line="27" Column="1" />
+      <File FileName="CalculateTheDigitsThatOccurTheMostNumber/Program.cs" Line="11" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01numbers" expanded="True">
+            <Node name="01numbers" expanded="True" />
+            <Node name="02stringArries" expanded="True" />
+            <Node name="CalculateTheDigitsThatOccurTheMostNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.01numbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02stringArries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TripleZigzag FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculateTheDigitsThatOccurTheMostNumber PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

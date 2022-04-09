@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/bin/Debug/net6.0/TripleZigzag
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/bin/Debug/net6.0/TripleZigzag.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/bin/Debug/net6.0/TripleZigzag.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/bin/Debug/net6.0/TripleZigzag.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/bin/Debug/net6.0/TripleZigzag.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/refint/TripleZigzag.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/TripleZigzag.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/01numbers/TripleZigzag/obj/Debug/net6.0/ref/TripleZigzag.dll

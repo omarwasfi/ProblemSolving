@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02stringArries", "02stringA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTheDigitsThatOccurTheMostNumber", "CalculateTheDigitsThatOccurTheMostNumber\CalculateTheDigitsThatOccurTheMostNumber.csproj", "{F9CFA9F3-52CC-42DF-9328-98D0E159B198}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleZigzag", "TripleZigzag\TripleZigzag.csproj", "{4A0D4FE8-5C9D-476A-85DD-6D07C44FBCBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F9CFA9F3-52CC-42DF-9328-98D0E159B198}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9CFA9F3-52CC-42DF-9328-98D0E159B198}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9CFA9F3-52CC-42DF-9328-98D0E159B198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0D4FE8-5C9D-476A-85DD-6D07C44FBCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0D4FE8-5C9D-476A-85DD-6D07C44FBCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0D4FE8-5C9D-476A-85DD-6D07C44FBCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0D4FE8-5C9D-476A-85DD-6D07C44FBCBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
