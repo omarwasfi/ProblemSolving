@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/bin/Debug/net6.0/LongestConsecutiveSequence
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/bin/Debug/net6.0/LongestConsecutiveSequence.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/bin/Debug/net6.0/LongestConsecutiveSequence.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/bin/Debug/net6.0/LongestConsecutiveSequence.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/bin/Debug/net6.0/LongestConsecutiveSequence.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/refint/LongestConsecutiveSequence.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/LongestConsecutiveSequence.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/Debug/net6.0/ref/LongestConsecutiveSequence.dll
