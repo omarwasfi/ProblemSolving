@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/bin/Debug/net6.0/AddTwoNumbers
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/bin/Debug/net6.0/AddTwoNumbers.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/bin/Debug/net6.0/AddTwoNumbers.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/bin/Debug/net6.0/AddTwoNumbers.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/bin/Debug/net6.0/AddTwoNumbers.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/refint/AddTwoNumbers.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/AddTwoNumbers.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/Debug/net6.0/ref/AddTwoNumbers.dll

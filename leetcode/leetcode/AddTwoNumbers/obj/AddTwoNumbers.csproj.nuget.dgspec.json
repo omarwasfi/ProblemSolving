@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/LongestConsecutiveSequence.csproj": {}
+    "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/AddTwoNumbers.csproj": {}
   },
   "projects": {
-    "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/LongestConsecutiveSequence.csproj": {
+    "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/AddTwoNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/LongestConsecutiveSequence.csproj",
-        "projectName": "LongestConsecutiveSequence",
-        "projectPath": "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/LongestConsecutiveSequence.csproj",
+        "projectUniqueName": "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/AddTwoNumbers.csproj",
+        "projectName": "AddTwoNumbers",
+        "projectPath": "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/AddTwoNumbers.csproj",
         "packagesPath": "/Users/omarwasfi/.nuget/packages/",
-        "outputPath": "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/LongestConsecutiveSequence/obj/",
+        "outputPath": "/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/AddTwoNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omarwasfi/.nuget/NuGet/NuGet.Config"

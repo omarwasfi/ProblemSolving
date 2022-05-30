@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1700.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{29C0952E-00CA-480C-8CD6-183222FCA8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{3464A6D1-0A69-4C54-8AA1-D5A5170B343B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29C0952E-00CA-480C-8CD6-183222FCA8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C0952E-00CA-480C-8CD6-183222FCA8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C0952E-00CA-480C-8CD6-183222FCA8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3464A6D1-0A69-4C54-8AA1-D5A5170B343B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3464A6D1-0A69-4C54-8AA1-D5A5170B343B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3464A6D1-0A69-4C54-8AA1-D5A5170B343B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3464A6D1-0A69-4C54-8AA1-D5A5170B343B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
