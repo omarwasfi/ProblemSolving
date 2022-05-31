@@ -1,6 +1,7 @@
-﻿<Properties StartupConfiguration="{54862FA4-1535-4665-95D0-CB231B96F820}|Default">
+﻿<Properties StartupConfiguration="{D826B5E0-821F-4A06-AE88-10F23C03AC95}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveMergeSort FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveBinarySearch/Program.cs">
     <Files>

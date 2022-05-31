@@ -8,7 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             Console.WriteLine("Hello World!");
 
-            List<int> list = new List<int>() { 5,4,3,7497,21,4,44,33,1 ,0};
+            List<int> list = new List<int>() { 70,20,45,5,5,5,4,4,4,44,800,3,7497,21,4,44,33,1 ,0};
 
 
             list =  QuickSort(list);
