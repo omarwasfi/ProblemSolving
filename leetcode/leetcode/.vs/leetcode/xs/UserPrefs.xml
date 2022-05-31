@@ -1,15 +1,12 @@
 ﻿<Properties StartupConfiguration="{54862FA4-1535-4665-95D0-CB231B96F820}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveBinarySearch/Program.cs">
     <Files>
       <File FileName="AddTwoNumbers/Program.cs" Line="90" Column="32" />
       <File FileName="LongestConsecutiveSequence/Program.cs" Line="17" Column="1" />
-      <File FileName="RecursiveBinarySearch/Program.cs" Line="27" Column="44" />
+      <File FileName="RecursiveBinarySearch/Program.cs" Line="15" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,7 +23,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
