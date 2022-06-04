@@ -1,13 +1,18 @@
-﻿<Properties StartupConfiguration="{D826B5E0-821F-4A06-AE88-10F23C03AC95}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveMergeSort FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveBinarySearch/Program.cs">
+﻿<Properties StartupConfiguration="{62003150-3467-4EA3-8D34-BB416A1786CF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveQuickSort/Program.cs">
     <Files>
       <File FileName="AddTwoNumbers/Program.cs" Line="90" Column="32" />
       <File FileName="LongestConsecutiveSequence/Program.cs" Line="17" Column="1" />
-      <File FileName="RecursiveBinarySearch/Program.cs" Line="15" Column="33" />
+      <File FileName="RecursiveBinarySearch/Program.cs" Line="20" Column="1" />
+      <File FileName="RecursiveQuickSort/Program.cs" Line="32" Column="22" />
+      <File FileName="RecursiveMergeSort/Program.cs" Line="58" Column="34" />
+      <File FileName="RecursiveQuickSort-String/Program.cs" Line="28" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,6 +21,11 @@
             <Node name="AddTwoNumbers" expanded="True" />
             <Node name="LongestConsecutiveSequence" expanded="True" />
             <Node name="RecursiveBinarySearch" expanded="True" />
+            <Node name="RecursiveMergeSort" expanded="True" />
+            <Node name="RecursiveQuickSort" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="RecursiveQuickSort-String" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,8 +35,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort-String FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveMergeSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

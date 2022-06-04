@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveQuickSort", "Recur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveMergeSort", "RecursiveMergeSort\RecursiveMergeSort.csproj", "{A25E428C-DA78-408F-A0CE-B44D6864B887}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveQuickSort-String", "RecursiveQuickSort-String\RecursiveQuickSort-String.csproj", "{62003150-3467-4EA3-8D34-BB416A1786CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A25E428C-DA78-408F-A0CE-B44D6864B887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A25E428C-DA78-408F-A0CE-B44D6864B887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A25E428C-DA78-408F-A0CE-B44D6864B887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62003150-3467-4EA3-8D34-BB416A1786CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62003150-3467-4EA3-8D34-BB416A1786CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62003150-3467-4EA3-8D34-BB416A1786CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62003150-3467-4EA3-8D34-BB416A1786CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
