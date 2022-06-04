@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/bin/Debug/net6.0/BT-DepthFirtstPrintValues
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/bin/Debug/net6.0/BT-DepthFirtstPrintValues.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/bin/Debug/net6.0/BT-DepthFirtstPrintValues.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/bin/Debug/net6.0/BT-DepthFirtstPrintValues.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/bin/Debug/net6.0/BT-DepthFirtstPrintValues.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/refint/BT-DepthFirtstPrintValues.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/BT-DepthFirtstPrintValues.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-DepthFirtstPrintValues/obj/Debug/net6.0/ref/BT-DepthFirtstPrintValues.dll
