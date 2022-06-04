@@ -20,7 +20,7 @@ namespace MyApp
             b.right = e;
             c.right = f;
 
-            List<string> bTValues = depthFirst(a);
+            List<string> bTValues = depthFirstRecurcive(a);
 
             foreach(string s in bTValues)
             {
@@ -54,6 +54,22 @@ namespace MyApp
 
             }
 
+
+            return values;
+        }
+
+        static List<string> depthFirstRecurcive(Node node)
+        {
+            List<string> values = new List<string>();
+            values.Add(node.value);
+            if(node.left != null)
+            {
+                values.AddRange(depthFirstRecurcive(node.left));
+            }
+            if(node.right != null)
+            {
+                values.AddRange(depthFirstRecurcive(node.right));
+            }
 
             return values;
         }
