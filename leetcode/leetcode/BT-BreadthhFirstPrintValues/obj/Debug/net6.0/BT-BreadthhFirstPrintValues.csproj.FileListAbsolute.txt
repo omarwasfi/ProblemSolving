@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/bin/Debug/net6.0/BT-BreadthhFirstPrintValues
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/bin/Debug/net6.0/BT-BreadthhFirstPrintValues.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/bin/Debug/net6.0/BT-BreadthhFirstPrintValues.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/bin/Debug/net6.0/BT-BreadthhFirstPrintValues.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/bin/Debug/net6.0/BT-BreadthhFirstPrintValues.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/refint/BT-BreadthhFirstPrintValues.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/BT-BreadthhFirstPrintValues.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/BT-BreadthhFirstPrintValues/obj/Debug/net6.0/ref/BT-BreadthhFirstPrintValues.dll

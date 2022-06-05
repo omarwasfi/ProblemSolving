@@ -1,43 +1,48 @@
-﻿<Properties StartupConfiguration="{62003150-3467-4EA3-8D34-BB416A1786CF}|Default">
-  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort-String PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{13B01ECA-5D34-4CE8-AE0A-078E17768922}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveMergeSort PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.BT-DepthFirtstPrintValues FirstBuild="True" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BT-BreadthhFirstPrintValues FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RecursiveMergeSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Testing-XUnit PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RecursiveQuickSort/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BT-DepthFirtstPrintValues/Program.cs">
     <Files>
-      <File FileName="AddTwoNumbers/Program.cs" Line="90" Column="32" />
-      <File FileName="LongestConsecutiveSequence/Program.cs" Line="17" Column="1" />
-      <File FileName="RecursiveBinarySearch/Program.cs" Line="20" Column="1" />
-      <File FileName="RecursiveQuickSort/Program.cs" Line="32" Column="22" />
-      <File FileName="RecursiveMergeSort/Program.cs" Line="58" Column="34" />
-      <File FileName="RecursiveQuickSort-String/Program.cs" Line="28" Column="46" />
+      <File FileName="RecursiveQuickSort-String/Program.cs" Line="28" Column="1" />
+      <File FileName="RecursiveQuickSort-String/ReadAndSort.cs" Line="30" Column="22" />
+      <File FileName="BT-DepthFirtstPrintValues/Program.cs" Line="34" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="leetcode" expanded="True">
             <Node name="AddTwoNumbers" expanded="True" />
+            <Node name="BT-DepthFirtstPrintValues" expanded="True" />
             <Node name="LongestConsecutiveSequence" expanded="True" />
             <Node name="RecursiveBinarySearch" expanded="True" />
             <Node name="RecursiveMergeSort" expanded="True" />
-            <Node name="RecursiveQuickSort" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="RecursiveQuickSort" expanded="True" />
             <Node name="RecursiveQuickSort-String" expanded="True" />
+            <Node name="Testing-XUnit" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="leetcode" expanded="True" selected="True">
+            <Node name="Testing-XUnit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Testing-XUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort-String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BT-DepthFirtstPrintValues PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
