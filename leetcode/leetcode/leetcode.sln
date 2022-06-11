@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy-List-with-Random-Point
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulatingNextRightPointersInEachNode", "PopulatingNextRightPointersInEachNode\PopulatingNextRightPointersInEachNode.csproj", "{9361F525-B94B-4500-8BA9-D909966E2AA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFib", "RecursiveFib\RecursiveFib.csproj", "{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9361F525-B94B-4500-8BA9-D909966E2AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9361F525-B94B-4500-8BA9-D909966E2AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9361F525-B94B-4500-8BA9-D909966E2AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
