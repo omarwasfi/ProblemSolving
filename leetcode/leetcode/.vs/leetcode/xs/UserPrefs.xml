@@ -1,15 +1,17 @@
-﻿<Properties StartupConfiguration="{9361F525-B94B-4500-8BA9-D909966E2AA2}|Default">
+﻿<Properties StartupConfiguration="{36EFD404-D34A-45C8-8DC9-9575AE9DF080}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Copy-List-with-Random-Pointer/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GridTraveller/Program.cs">
     <Files>
       <File FileName="RecursiveQuickSort-String/Program.cs" Line="28" Column="1" />
       <File FileName="RecursiveQuickSort-String/ReadAndSort.cs" Line="30" Column="22" />
       <File FileName="BT-DepthFirtstPrintValues/Program.cs" Line="61" Column="47" />
       <File FileName="BT-BreadthhFirstPrintValues/Program.cs" Line="33" Column="41" />
       <File FileName="AddTwoNumbers/Program.cs" Line="127" Column="1" />
-      <File FileName="Copy-List-with-Random-Pointer/Program.cs" Line="140" Column="39" />
+      <File FileName="Copy-List-with-Random-Pointer/Program.cs" Line="181" Column="1" />
+      <File FileName="PopulatingNextRightPointersInEachNode/Program.cs" Line="38" Column="6" />
+      <File FileName="GridTraveller/Program.cs" Line="26" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,8 +21,11 @@
             <Node name="BT-BreadthhFirstPrintValues" expanded="True" />
             <Node name="BT-DepthFirtstPrintValues" expanded="True" />
             <Node name="Copy-List-with-Random-Pointer" expanded="True" />
+            <Node name="GridTraveller" expanded="True" />
             <Node name="LongestConsecutiveSequence" expanded="True" />
+            <Node name="PopulatingNextRightPointersInEachNode" expanded="True" />
             <Node name="RecursiveBinarySearch" expanded="True" />
+            <Node name="RecursiveFib" expanded="True" />
             <Node name="RecursiveMergeSort" expanded="True" />
             <Node name="RecursiveQuickSort" expanded="True" />
             <Node name="RecursiveQuickSort-String" expanded="True" />
@@ -38,10 +43,13 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GridTraveller PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.PopulatingNextRightPointersInEachNode PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveFib FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveFib PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/Copy-List-with-Random-Pointer/Program.cs" relfile="Copy-List-with-Random-Pointer/Program.cs" line="134" column="1" />
+    <BreakpointStore>
+      <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/Copy-List-with-Random-Pointer/Program.cs" relfile="Copy-List-with-Random-Pointer/Program.cs" line="134" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BT-BreadthhFirstPrintValues PreferredExecutionTarget="MonoDevelop.Default" />

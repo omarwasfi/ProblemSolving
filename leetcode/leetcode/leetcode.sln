@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulatingNextRightPointers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFib", "RecursiveFib\RecursiveFib.csproj", "{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTraveller", "GridTraveller\GridTraveller.csproj", "{36EFD404-D34A-45C8-8DC9-9575AE9DF080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653F6803-AA4E-4D98-A1E9-F2479CDF2B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

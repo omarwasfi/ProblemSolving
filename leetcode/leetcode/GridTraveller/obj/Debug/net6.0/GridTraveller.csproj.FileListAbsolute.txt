@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/bin/Debug/net6.0/GridTraveller
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/bin/Debug/net6.0/GridTraveller.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/bin/Debug/net6.0/GridTraveller.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/bin/Debug/net6.0/GridTraveller.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/bin/Debug/net6.0/GridTraveller.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/refint/GridTraveller.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/GridTraveller.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/GridTraveller/obj/Debug/net6.0/ref/GridTraveller.dll
