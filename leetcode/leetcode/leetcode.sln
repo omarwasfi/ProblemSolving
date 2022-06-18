@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFib", "RecursiveFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTraveller", "GridTraveller\GridTraveller.csproj", "{36EFD404-D34A-45C8-8DC9-9575AE9DF080}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanSum", "CanSum\CanSum.csproj", "{3BABBF47-5806-4F0A-9CAD-5F909A19850F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EFD404-D34A-45C8-8DC9-9575AE9DF080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BABBF47-5806-4F0A-9CAD-5F909A19850F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BABBF47-5806-4F0A-9CAD-5F909A19850F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BABBF47-5806-4F0A-9CAD-5F909A19850F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BABBF47-5806-4F0A-9CAD-5F909A19850F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
