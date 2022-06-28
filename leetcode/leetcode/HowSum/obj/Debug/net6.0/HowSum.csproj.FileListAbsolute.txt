@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/bin/Debug/net6.0/HowSum
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/bin/Debug/net6.0/HowSum.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/bin/Debug/net6.0/HowSum.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/bin/Debug/net6.0/HowSum.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/bin/Debug/net6.0/HowSum.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/refint/HowSum.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/HowSum.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/HowSum/obj/Debug/net6.0/ref/HowSum.dll
