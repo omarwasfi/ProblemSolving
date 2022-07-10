@@ -1,0 +1,15 @@
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/bin/Debug/net6.0/CanConstruct
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/bin/Debug/net6.0/CanConstruct.deps.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/bin/Debug/net6.0/CanConstruct.runtimeconfig.json
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/bin/Debug/net6.0/CanConstruct.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/bin/Debug/net6.0/CanConstruct.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.csproj.AssemblyReference.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.AssemblyInfoInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.AssemblyInfo.cs
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.csproj.CoreCompileInputs.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/refint/CanConstruct.dll
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.pdb
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/CanConstruct.genruntimeconfig.cache
+/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/obj/Debug/net6.0/ref/CanConstruct.dll

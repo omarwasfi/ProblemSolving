@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanSum", "CanSum\CanSum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowSum", "HowSum\HowSum.csproj", "{AD788874-A4B1-493E-A1B1-8B4D175BE5AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanConstruct", "CanConstruct\CanConstruct.csproj", "{CD8CC61F-CF0F-4100-9E93-E1E014332627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{AD788874-A4B1-493E-A1B1-8B4D175BE5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD788874-A4B1-493E-A1B1-8B4D175BE5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD788874-A4B1-493E-A1B1-8B4D175BE5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8CC61F-CF0F-4100-9E93-E1E014332627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8CC61F-CF0F-4100-9E93-E1E014332627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8CC61F-CF0F-4100-9E93-E1E014332627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8CC61F-CF0F-4100-9E93-E1E014332627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

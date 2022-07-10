@@ -1,18 +1,13 @@
-﻿<Properties StartupConfiguration="{3BABBF47-5806-4F0A-9CAD-5F909A19850F}|Default">
+﻿<Properties StartupConfiguration="{CD8CC61F-CF0F-4100-9E93-E1E014332627}|Default">
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.AddTwoNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort-String PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CanSum/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HowSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CanConstruct/Program.cs">
     <Files>
-      <File FileName="RecursiveQuickSort-String/Program.cs" Line="28" Column="1" />
-      <File FileName="RecursiveQuickSort-String/ReadAndSort.cs" Line="1" Column="1" />
-      <File FileName="BT-DepthFirtstPrintValues/Program.cs" Line="1" Column="1" />
-      <File FileName="BT-BreadthhFirstPrintValues/Program.cs" Line="1" Column="1" />
-      <File FileName="AddTwoNumbers/Program.cs" Line="1" Column="1" />
-      <File FileName="Copy-List-with-Random-Pointer/Program.cs" Line="1" Column="1" />
-      <File FileName="PopulatingNextRightPointersInEachNode/Program.cs" Line="1" Column="1" />
-      <File FileName="CanSum/Program.cs" Line="14" Column="34" />
+      <File FileName="HowSum/Program.cs" Line="10" Column="39" />
+      <File FileName="CanConstruct/Program.cs" Line="22" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +16,13 @@
             <Node name="AddTwoNumbers" expanded="True" />
             <Node name="BT-BreadthhFirstPrintValues" expanded="True" />
             <Node name="BT-DepthFirtstPrintValues" expanded="True" />
+            <Node name="CanConstruct" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="CanSum" expanded="True" />
             <Node name="Copy-List-with-Random-Pointer" expanded="True" />
             <Node name="GridTraveller" expanded="True" />
+            <Node name="HowSum" expanded="True" />
             <Node name="LongestConsecutiveSequence" expanded="True" />
             <Node name="PopulatingNextRightPointersInEachNode" expanded="True" />
             <Node name="RecursiveBinarySearch" expanded="True" />
@@ -45,21 +44,27 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CanSum PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.RecursiveFib PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.PopulatingNextRightPointersInEachNode PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.BT-DepthFirtstPrintValues PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.GridTraveller PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.HowSum FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/Copy-List-with-Random-Pointer/Program.cs" relfile="Copy-List-with-Random-Pointer/Program.cs" line="134" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RecursiveQuickSort-String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Testing-XUnit PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/Copy-List-with-Random-Pointer/Program.cs" relfile="Copy-List-with-Random-Pointer/Program.cs" line="134" column="1" />
+      <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/Program.cs" relfile="CanConstruct/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/Program.cs" relfile="CanConstruct/Program.cs" line="39" column="1" />
+      <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/Program.cs" relfile="CanConstruct/Program.cs" line="32" column="1" />
+      <Breakpoint file="/Users/omarwasfi/Documents/GitHub/ProblemSolving/leetcode/leetcode/CanConstruct/Program.cs" relfile="CanConstruct/Program.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.BT-BreadthhFirstPrintValues PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Copy-List-with-Random-Pointer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LongestConsecutiveSequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveBinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RecursiveFib PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CanSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CanConstruct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.BT-DepthFirtstPrintValues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RecursiveMergeSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Copy-List-with-Random-Pointer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GridTraveller PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
