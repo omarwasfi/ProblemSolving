@@ -8,18 +8,27 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
 
            
-            Console.WriteLine(CanConstruct("skateboardwasa", new List<string>() { "w" , "wa" , "sa" , "a" ,"sk" , "bo" , "ard" ,"ate" }));
+            //Console.WriteLine(CanConstruct("skateboardwasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawaaaaaaaawaaaaaawwwww", new List<string>() { "w" , "wa" , "sa" , "a" ,"sk" , "bo" , "ard" ,"ate" }));
 
 
-            Console.WriteLine(HowManyCanConstruct("skateboardwasaaaaaaaaaaaaaaaaaaaaaaaaaaaa", new List<string>() { "w", "wa", "sa", "a", "sk", "bo", "ard", "ate" }));
+            Console.WriteLine(HowManyCanConstruct("skateboardwasaawwwwwwwwwwwwaaaaaaaasaaaaaaaaasa", new List<string>() { "w", "wa", "sa", "a", "sk", "bo", "ard", "ate" }));
 
 
 
         }
 
-        public static bool CanConstruct(string TargetWord, List<string> Source, Dictionary<int, List<int>> Memo = null)
+        public static bool CanConstruct(string TargetWord, List<string> Source, Dictionary<string, bool> Memo = null)
         {
             if (TargetWord.Count() == 0) return true;
+
+            if(Memo == null)
+            {
+                Memo = new Dictionary<string, bool>();
+            }
+            if (Memo.ContainsKey(TargetWord))
+            {
+                return Memo[TargetWord];
+            }
 
             bool currentState = false;
 
@@ -38,8 +47,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                     {
                         string newTarget = TargetWord.Substring(lenght, TargetWord.Count() - lenght);
                         Console.WriteLine(newTarget);
-                        currentState = CanConstruct(newTarget, Source);
-
+                        currentState = CanConstruct(newTarget, Source, Memo);
                     }
 
                     string lastPartOfTheWord = TargetWord.Substring(TargetWord.Count() - lenght, lenght);
@@ -50,7 +58,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
                         string newTarget = TargetWord.Substring(0, TargetWord.Count() - lenght);
                         Console.WriteLine(newTarget);
 
-                        currentState = CanConstruct(newTarget, Source);
+                        currentState = CanConstruct(newTarget, Source,Memo);
+
 
                     }
                 }
@@ -59,22 +68,33 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 }
 
-               
-                if(currentState == true)
+
+                if (currentState == true)
                 {
                     return currentState;
                 }
 
             }
 
+            Memo.Add(TargetWord, currentState);
+
+
 
             return currentState;
         }
 
-        public static int HowManyCanConstruct(string TargetWord, List<string> Source, Dictionary<int, List<int>> Memo = null)
+        public static int HowManyCanConstruct(string TargetWord, List<string> Source, Dictionary<string, int> Memo = null)
         {
             if (TargetWord.Count() == 0) return 1;
 
+            if (Memo == null)
+            {
+                Memo = new Dictionary<string, int>();
+            }
+            if (Memo.ContainsKey(TargetWord))
+            {
+                return Memo[TargetWord];
+            }
             int trueStateCounter = 0;
 
             foreach (string word in Source)
@@ -93,7 +113,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                         string newTarget = TargetWord.Substring(lenght, TargetWord.Count() - lenght);
                         Console.WriteLine(newTarget);
 
-                        int result = HowManyCanConstruct(newTarget, Source);
+                        int result = HowManyCanConstruct(newTarget, Source, Memo);
                         if (result > 0)
                             trueStateCounter += result;
 
@@ -107,7 +127,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                         string newTarget = TargetWord.Substring(0, TargetWord.Count() - lenght);
                         Console.WriteLine(newTarget);
 
-                        int result = HowManyCanConstruct(newTarget, Source);
+                        int result = HowManyCanConstruct(newTarget, Source , Memo);
                         if (result > 0)
                             trueStateCounter += result;
                     }
@@ -121,6 +141,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
                
 
             }
+
+            Memo.Add(TargetWord, trueStateCounter);
 
 
             return trueStateCounter;
